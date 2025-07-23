@@ -1,2 +1,2 @@
 # ETL NF3E
-ETL de transferência de documentos fiscais do banco Oracle para IBM Netezza 
+Pipeline de transferência de documentos fiscais do banco Oracle para mainframe IBM Netezza. 
